@@ -1,108 +1,35 @@
-# DecodeLabs UI/UX Internship — Batch 2026
-### Oluwatosin Olaniyan | UI/UX Product Designer
-
-A collection of hands-on UI/UX design projects completed during my 
-4-week industrial training internship at DecodeLabs (Batch 2026). 
-Each project builds on the last — from UX research through to 
-high-fidelity visual design.
+# task 3
+# Project 3 — The Visual Identity
+### DecodeLabs UI/UX Internship | Batch 2026
+**Designer:** Oluwatosin Olaniyan
 
 ---
 
-## Projects Overview
+## Project Overview
 
-| Project | Title | Focus | Tool |
-|---|---|---|---|
-| 01 | The Empathy Map | UX Research & Personas | FigJam |
-| 02 | The Blueprint | Lo-Fi Wireframing | Figma |
-| 03 | The Visual Identity | Hi-Fi UI Design | Figma |
-
----
-
-## Project 1 — The Empathy Map
-
-**Brief:** A fitness startup wants to launch an app for busy office 
-professionals who struggle to find time for exercise. Before designing 
-a single pixel, the team needed to understand the user's real pain.
-
-**My Role:** UX Researcher
-
-**What I Did:**
-- Defined the target audience (time-poor professionals, ages 25–40)
-- Created a detailed User Persona: Sola Adeyemi, 31, Brand Strategist
-- Built a 4-quadrant Empathy Map (Says / Thinks / Does / Feels)
-- Identified the core insight: the problem isn't discipline — it's friction
-
-**Key Insight:**
-> Sola doesn't have a discipline problem. She has a design problem. 
-> Every solution she's encountered was built for someone with more 
-> time, more energy, and more forgiveness in their schedule.
-
-**Deliverable:** FigJam board — 5 frames
-
-![Empathy Map](p1-empathy-map.png)
-![User Persona](p1-persona.png)
-
-🔗 [View Full Project on Figma](https://www.figma.com/board/G918HrmTamnS6OC8u4sweO/DecodeLabs-Project-1?node-id=0-1&t=EKyHRI6CDg6Rhvkd-1) ← paste your Figma link here
-
----
-
-## Project 2 — The Blueprint
-
-**Brief:** An e-commerce brand is losing customers during checkout. 
-The layout is cluttered, and users are confused. They need a clean, 
-logical structure for their landing page.
-
-**My Role:** UX/UI Designer
-
-**What I Did:**
-- Analysed the 3 core friction points causing abandonment
-- Designed a full lo-fi homepage wireframe at 1440px desktop
-- Applied Z-pattern layout for natural eye flow
-- Placed CTAs strategically: above fold, mid-page, and footer
-- Annotated every key decision with reasoning
-
-**Key Decision:**
-> The trust signals bar is deliberately placed after the product grid — 
-> at the exact moment a user has seen something they want, doubt is 
-> at its highest. Addressing it there directly reduces abandonment.
-
-**Deliverable:** Figma file — wireframe + annotations + key decisions
-
-![Wireframe](p2-wireframe.png)
-![Key Decisions](p2-key-decisions.png)
-
-🔗 [View Full Project on Figma](https://www.figma.com/design/oCRIQALuQtTjCnUzEVxzU0/DecodeLabs-Projects?node-id=51-5&t=12nYL9xdvthgiJsn-1)
-
----
-
-## Project 3 — The Visual Identity
-
-**Brief:** A premium organic food delivery service needs a brand 
-identity that communicates trust, health, and speed through 
-colors and typography.
-
-**My Role:** Lead Visual Designer
-
-**What I Did:**
-- Built a complete design system (color palette, typography, spacing)
-- Followed the 8-point grid across all screens
-- Designed 3 key screens: Splash, Product List, Product Detail, and their wireframes
-- Incorporated the Trust Engine: Farm-to-Table Tracking, 
-  Digital Certification and Flexible Subscriptions
-- Used North Window Light imagery direction throughout
-
-**Design System:**
-| Token | Value |
+| Field | Detail |
 |---|---|
-| Primary | Leaf Green `#4A6741` |
-| Secondary | Earthy Brown `#5C3D2E` |
-| Accent | Harvest Gold `#C9A84C` |
-| Background | Warm Cream `#F5F0E8` |
-| Headlines | Playfair Display (Serif) |
-| Body | Montserrat (Sans-serif) |
-| Grid | 8-point system |
+| **Track** | UI/UX Product Design |
+| **Project** | 03 — The Visual Identity |
+| **Tool** | Figma |
+| **Duration** | Week 3 |
+| **Role** | Lead Visual Designer |
 
-**Deliverable:** Figma file — design system + 3 hi-fi screens
+---
+
+## The Brief
+
+A premium organic food delivery service needs a modern, fresh brand
+identity that communicates trust, health, and speed through colors
+and typography. The mission: transform wireframes into a high-fidelity
+digital product that feels like a premium digital garden.
+
+> *"This isn't about decoration — it's about visual persuasion.
+> Color and typography must communicate trust before a single word
+> is read."*
+> — DecodeLabs Task Briefing
+
+---
 
 ![Design System](p3-design-system.png)
 ![Wireframe & Hi-f](p3-wi-hi.png)
@@ -110,24 +37,111 @@ colors and typography.
 ![Product List](p3-product-list.png)
 ![Product Detail](p3-product-details.png)
 
-🔗 [View Full Project on Figma](https://www.figma.com/design/oCRIQALuQtTjCnUzEVxzU0/DecodeLabs-Projects?node-id=130-226&t=12nYL9xdvthgiJsn-1)
+## Design System
+
+### Color Palette
+
+| Role | Color | Hex | Rationale |
+|---|---|---|---|
+| Primary | Leaf Green | `#4A6741` | Vitality & health — core brand signal |
+| Secondary | Earthy Brown | `#5C3D2E` | Stability — grounds the experience |
+| Accent | Harvest Gold | `#C9A84C` | Sunlight & quality — used sparingly for delight |
+| Background | Warm Cream | `#F5F0E8` | Premium, warm — not clinical white |
+| Text | Near Black | `#1C1C1C` | High contrast, readable body copy |
+| Anti-pattern | ❌ Fast food red/orange | — | Never used — triggers wrong brand associations |
+
+### Typography
+
+| Role | Font | Size | Use |
+|---|---|---|---|
+| Headlines | Playfair Display (Serif) | 24–32px | Editorial authority |
+| Body / UI | Montserrat (Sans-serif) | 12–16px | Functional, clean, readable |
+
+### Spacing System
+All dimensions follow the **8-point grid** — every padding, margin,
+and spacing value is a multiple of 8: `8 · 16 · 24 · 32 · 40 · 48px`
+
+---
+
+## 🔍 My Process
+
+### Stage 1 — Design System First
+Built the complete style tile before touching any screen:
+colors, typography specimens, button states, spacing tokens.
+This ensured visual consistency across all 3 screens.
+
+### Stage 2 — Imagery Direction
+Followed the **North Window Light** principle from DecodeLabs:
+- ✅ Natural daylight, soft shadows, visible texture
+- ✅ Matte finish — honest and raw
+- ❌ No oversaturated studio flash photography
+- ❌ No floating ingredients on white backgrounds
+
+### Stage 3 — 3 Key Screens
+
+#### 📱 Screen 1 — Splash Screen
+First brand impression. Full-screen hero food photography with
+dark gradient overlay, centered brand name in Playfair Display,
+tagline, and a single full-width GET STARTED CTA.
+
+#### 📱 Screen 2 — Product List Screen
+Personalised greeting, smart search bar, horizontal category
+filter pills, 2-column product card grid (photo, name, weight,
+price in Harvest Gold, green "+" add button), bottom navigation.
+
+#### 📱 Screen 3 — Product Detail Screen
+Full-bleed hero product photo, floating content card with:
+- Product name + farm source tag
+- Farm-to-Table tracking timeline
+- Star rating + review count
+- Trust pills (Organic · Non-GMO · Local)
+- Product description
+- Quantity stepper + price
+- ADD TO CART primary CTA
+- SUBSCRIBE & SAVE 10% secondary CTA
+
+---
+
+## The Trust Engine
+
+Three essential trust features are incorporated across the screens:
+
+| Feature | Where | Implementation |
+|---|---|---|
+| Farm-to-Table Tracking | Product Detail | 3-step timeline: Harvested → Packed → Out for Delivery |
+| Digital Certification | Product Detail + List | Trust pills with verified badge treatment |
+| Flexible Subscriptions | Product Detail | "Subscribe & Save 10%" outlined secondary CTA |
+
+---
+
+## ✅ Deliverables Checklist
+
+- [x] Design System — color palette, typography, 8pt spacing grid
+- [x] Splash Screen — brand identity, hero imagery, primary CTA
+- [x] Product List Screen — search, filter pills, product grid, bottom nav
+- [x] Product Detail Screen — full trust engine, farm tracking, subscribe CTA
+- [x] North Window Light imagery direction throughout
+- [x] Consistent design tokens across all 3 screens
+
+---
+
+## 🔗 View Full Project
+
+👉 **[Open in Figma](https://www.figma.com/design/oCRIQALuQtTjCnUzEVxzU0/DecodeLabs-Projects?node-id=130-226&t=12nYL9xdvthgiJsn-1)**
 
 ---
 
 ## Tools Used
-
-- **Figma** — wireframing, hi-fi design, prototyping
-- **FigJam** — UX research, empathy mapping
-- **Unsplash** — authentic food photography
+- Figma — design system, hi-fi screens, component building
+- Unsplash — North Window Light organic food photography
+- Wireframe — Low-Fi
 
 ---
 
-## About Me
+## Designer
 
-I'm Oluwatosin Olaniyan, an early-career UI/UX Product Designer 
-based in Lagos, Nigeria. I completed the DecodeLabs Batch 2026 
-internship as part of my industrial training, working across 
-UX research, information architecture, and visual design.
+**Oluwatosin Olaniyan** — UI/UX Product Designer
+🌍 Lagos, Nigeria
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwatosin-olaniyan-59089429b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcZtMEqZvSi2rAGn7Br8GAA%3D%3D) | [X / Twitter](https://x.com/ItsOlatee)
 
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatosin-olaniyan-59089429b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2B%2FnU7KJTEi0LELKGBsJAQ%3D%3D) 
-Follow my design journey on [X / Twitter](https://x.com/ItsOlatee) 
+*Part of the DecodeLabs Industrial Training Kit — Batch 2026*
